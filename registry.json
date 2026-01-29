@@ -1,7 +1,8 @@
 {
   "version": "0.0.1",
   "extensions":[{
-      "path": "https://github.com/HikeProgrammer/summerextensionregistery/raw/refs/heads/main/adblocker.asar",
+      "type": "indirect",
+      "path": "https://drive.google.com/uc?export=download&id=1Wrs1TDpb3sRE3o3TeaDriFCq67ko2MpF",
       "name": "My AdBlocker",
       "description": "Default ad blocker, inspired by ghostery/adblocker"
     }]
