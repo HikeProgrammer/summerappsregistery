@@ -5,5 +5,12 @@
       "path": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode/releases/download/v0.1.0/hidimensionssap.asar",
       "name": "Hi Dimensions",
       "description": "Hi dimensions is a game about saying hi, buying coffee, and getting things in return. (idle incremental game)"
-    }]
+    },
+    {
+      "type": "direct",
+      "path": "https://github.com/HikeProgrammer/stockfish-chess-web-gui/releases/download/v0.1.0/chess.asar",
+      "name": "Offline Chess",
+      "description": "Play some offline chess!"
+    }
+  ]
 }
