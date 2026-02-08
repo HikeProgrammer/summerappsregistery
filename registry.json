@@ -1,9 +1,9 @@
 {
   "version": "0.0.1",
   "extensions":[{
-      "type": "indirect",
-      "path": "https://drive.google.com/uc?export=download&id=1Wrs1TDpb3sRE3o3TeaDriFCq67ko2MpF",
-      "name": "My AdBlocker",
-      "description": "Default ad blocker, inspired by ghostery/adblocker"
+      "type": "direct",
+      "path": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode/releases/download/v0.1.0/hidimensionssap.asar",
+      "name": "Hi Dimensions",
+      "description": "Hi dimensions is a game about saying hi, buying coffee, and getting things in return. (idle incremental game)"
     }]
 }
