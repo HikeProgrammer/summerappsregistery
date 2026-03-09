@@ -4,7 +4,7 @@
     {
       "id": "hi-dimensions",
       "type": "storeapp",
-      "apptype": ["SummerApp"]
+      "apptype": ["SummerApp"],
       "title": "Hi Dimensions",
       "image": "https://registry.summerapps.dev/icons/hi-dimensions.png",
       "downloadUrl": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode/releases/download/v0.1.0/hidimensionssap.asar",
@@ -18,7 +18,7 @@
     {
       "id": "offline-chess",
       "type": "storeapp",,
-      "apptype": ["SummerApp"]
+      "apptype": ["SummerApp"],
       "title": "Offline Chess",
       "image": "https://registry.summerapps.dev/icons/offline-chess.png",
       "downloadUrl": "https://github.com/HikeProgrammer/stockfish-chess-web-gui/releases/download/v0.1.0/chess.asar",
