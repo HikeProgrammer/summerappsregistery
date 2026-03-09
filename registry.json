@@ -1,16 +1,33 @@
 {
   "version": "0.0.1",
-  "extensions":[{
-      "type": "direct",
-      "path": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode/releases/download/v0.1.0/hidimensionssap.asar",
-      "name": "Hi Dimensions",
-      "description": "Hi dimensions is a game about saying hi, buying coffee, and getting things in return. (idle incremental game)"
+  "apps": [
+    {
+      "id": "hi-dimensions",
+      "type": "storeapp",
+      "apptype": ["SummerApp"]
+      "title": "Hi Dimensions",
+      "image": "https://registry.summerapps.dev/icons/hi-dimensions.png",
+      "downloadUrl": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode/releases/download/v0.1.0/hidimensionssap.asar",
+      "description": "Hi dimensions is a game about saying hi, buying coffee, and getting things in return. (idle incremental game)",
+      "author": "HikeProgrammer",
+      "version": "0.1.0",
+      "repository": "https://github.com/HikeProgrammer/AntimatterDimensionsSourceCode",
+      "category": "games",
+      "tags": ["game", "idle"]
     },
     {
-      "type": "direct",
-      "path": "https://github.com/HikeProgrammer/stockfish-chess-web-gui/releases/download/v0.1.0/chess.asar",
-      "name": "Offline Chess",
-      "description": "Play some offline chess!"
+      "id": "offline-chess",
+      "type": "storeapp",,
+      "apptype": ["SummerApp"]
+      "title": "Offline Chess",
+      "image": "https://registry.summerapps.dev/icons/offline-chess.png",
+      "downloadUrl": "https://github.com/HikeProgrammer/stockfish-chess-web-gui/releases/download/v0.1.0/chess.asar",
+      "description": "Play some offline chess!",
+      "author": "HikeProgrammer",
+      "version": "0.1.0",
+      "repository": "https://github.com/HikeProgrammer/stockfish-chess-web-gui",
+      "category": "games",
+      "tags": ["chess", "game", "board"]
     }
   ]
 }
