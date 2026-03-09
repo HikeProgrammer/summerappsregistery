@@ -17,7 +17,7 @@
     },
     {
       "id": "offline-chess",
-      "type": "storeapp",,
+      "type": "storeapp",
       "apptype": ["SummerApp"],
       "title": "Offline Chess",
       "image": "https://registry.summerapps.dev/icons/offline-chess.png",
